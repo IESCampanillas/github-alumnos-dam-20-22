@@ -11,3 +11,4 @@ Alumnos:
 * [Andrés Domínguez, Javier](https://github.com/javierandresaluiescampanillas)
 * [Moreno Rodríguez, Javier](https://github.com/Javiemr)
 * [Salmerón Robles, Gonzalo José](https://github.com/gonzalosalmeron)
+* [Fabián El Belaizi, Daniel](https://github.com/Danny-06)
