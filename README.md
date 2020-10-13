@@ -8,4 +8,5 @@ Profesor:
 
 Alumnos:
 
+* [Andrés Domínguez, Javier] (https://github.com/javierandresaluiescampanillas)
 * [Moreno Rodríguez, Javier](https://github.com/Javiemr)
