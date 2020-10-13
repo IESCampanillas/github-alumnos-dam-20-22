@@ -8,6 +8,7 @@ Profesor:
 
 Alumnos:
 
+* [Buendía López, Jairo](https://github.com/jairobuendia)
 * [Andrés Domínguez, Javier](https://github.com/javierandresaluiescampanillas)
 * [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso)
 * [Fabián El Belaizi, Daniel](https://github.com/Danny-06)
