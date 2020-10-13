@@ -10,6 +10,7 @@ Alumnos:
 
 * [Andrés Domínguez, Javier](https://github.com/javierandresaluiescampanillas)
 * [Fabián El Belaizi, Daniel](https://github.com/Danny-06)
+* [López Lozano, Santos](https://github.com/SantosLopezLozano)
 * [García Gómez, Sergio](https://github.com/SergioGarciaGomez)
 * [Moreno Rodríguez, Javier](https://github.com/Javiemr)
 * [Salmerón Robles, Gonzalo José](https://github.com/gonzalosalmeron)
