@@ -10,7 +10,7 @@ Alumnos:
 
 * [Andrés Domínguez, Javier](https://github.com/javierandresaluiescampanillas)
 * [Buendía López, Jairo](https://github.com/jairobuendia)
-* [De Abrisqueta Rangel, Ander] (https://github.com/AnderDeAbrisqueta)
+* [De Abrisqueta Rangel, Ander](https://github.com/AnderDeAbrisqueta)
 * [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso)
 * [Fabián El Belaizi, Daniel](https://github.com/Danny-06)
 * [López Lozano, Santos](https://github.com/SantosLopezLozano)
