@@ -13,6 +13,7 @@ Alumnos:
 * [De Abrisqueta Rangel, Ander](https://github.com/AnderDeAbrisqueta)
 * [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso)
 * [Fabián El Belaizi, Daniel](https://github.com/Danny-06)
+* [García Campoy, Daniel](https://github.com/DanielGarciaCampoy)
 * [García Gómez, Sergio](https://github.com/SergioGarciaGomez)
 * [Gutiérrez Ramírez, Jesús](https://github.com/Jesus-GR)
 * [López Lozano, Santos](https://github.com/SantosLopezLozano)
