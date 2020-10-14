@@ -12,6 +12,7 @@ Alumnos:
 * [Buendía López, Jairo](https://github.com/jairobuendia)
 * [De Abrisqueta Rangel, Ander](https://github.com/AnderDeAbrisqueta)
 * [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso)
+* [Estrada Cobo, Jose Manuel](https://github.com/JoseEstradaC)
 * [Fabián El Belaizi, Daniel](https://github.com/Danny-06)
 * [García Campoy, Daniel](https://github.com/DanielGarciaCampoy)
 * [García Gómez, Sergio](https://github.com/SergioGarciaGomez)
