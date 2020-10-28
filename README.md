@@ -18,7 +18,7 @@ Alumnos:
 * [García Gómez, Sergio](https://github.com/SergioGarciaGomez)
 * [Gutiérrez Ramírez, Jesús](https://github.com/Jesus-GR)
 * [López Lozano, Santos](https://github.com/SantosLopezLozano)
-* [López Pérez, María de la Cruz](https://github.com/mcruzlp)
+* [López Pérez, Cruz](https://github.com/mcruzlp)
 * [Millán Rebollo, Noel](https://github.com/NoelMillan)
 * [Millón Cortés, Manuel Alejandro](github.com/ManuelMillon)
 * [Morales Aragón, Marcos](https://github.com/MarcosMoralesAragon)
