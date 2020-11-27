@@ -20,7 +20,7 @@ Alumnos:
 * [López Lozano, Santos](https://github.com/SantosLopezLozano)
 * [López Pérez, Cruz](https://github.com/mcruzlp)
 * [Millán Rebollo, Noel](https://github.com/NoelMillan)
-* [Millón Cortés, Manuel Alejandro](github.com/ManuelMillon)
+* [Millón Cortés, Manuel Alejandro](https://github.com/ManuelMillon)
 * [Morales Aragón, Marcos](https://github.com/MarcosMoralesAragon)
 * [Moreno Rodríguez, Javier](https://github.com/Javiemr)
 * [Pelaz Medrano, Adrián](https://github.com/AdrianPelaz)
